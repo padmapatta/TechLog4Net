@@ -1,0 +1,11 @@
+D:\GEICO\Log4NetApp\Log4NetApp\bin\Debug\netcoreapp2.0\Log4NetApp.deps.json
+D:\GEICO\Log4NetApp\Log4NetApp\bin\Debug\netcoreapp2.0\Log4NetApp.runtimeconfig.json
+D:\GEICO\Log4NetApp\Log4NetApp\bin\Debug\netcoreapp2.0\Log4NetApp.runtimeconfig.dev.json
+D:\GEICO\Log4NetApp\Log4NetApp\bin\Debug\netcoreapp2.0\Log4NetApp.dll
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.csprojAssemblyReference.cache
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.csproj.CoreCompileInputs.cache
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.AssemblyInfoInputs.cache
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.AssemblyInfo.cs
+D:\GEICO\Log4NetApp\Log4NetApp\bin\Debug\netcoreapp2.0\Log4NetApp.pdb
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.dll
+D:\GEICO\Log4NetApp\Log4NetApp\obj\Debug\netcoreapp2.0\Log4NetApp.pdb
